@@ -8,6 +8,10 @@ import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.TypedValue;
 
+import com.onexsoftech.retrofit.adapter.AlbumAdapter;
+import com.onexsoftech.retrofit.api.Api;
+import com.onexsoftech.retrofit.api.Config;
+
 import java.util.ArrayList;
 import java.util.List;
 

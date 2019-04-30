@@ -1,4 +1,7 @@
-package com.onexsoftech.retrofit;
+package com.onexsoftech.retrofit.api;
+
+import com.onexsoftech.retrofit.Model2;
+import com.onexsoftech.retrofit.Movie;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

@@ -1,4 +1,4 @@
-package com.onexsoftech.retrofit;
+package com.onexsoftech.retrofit.api;
 
 /**
  * Created by SYSTEM5 on 11/28/2018.

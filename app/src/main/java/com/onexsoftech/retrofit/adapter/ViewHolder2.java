@@ -1,9 +1,11 @@
-package com.onexsoftech.retrofit;
+package com.onexsoftech.retrofit.adapter;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
+
+import com.onexsoftech.retrofit.R;
 
 /**
  * Created by SYSTEM5 on 11/29/2018.

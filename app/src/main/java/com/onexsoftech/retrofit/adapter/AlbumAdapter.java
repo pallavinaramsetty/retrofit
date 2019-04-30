@@ -1,4 +1,4 @@
-package com.onexsoftech.retrofit;
+package com.onexsoftech.retrofit.adapter;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -15,6 +15,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
+import com.onexsoftech.retrofit.R;
+import com.onexsoftech.retrofit.Result;
+import com.onexsoftech.retrofit.TextAdapter;
+
 
 import java.util.ArrayList;
 import java.util.List;
